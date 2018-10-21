@@ -4,11 +4,33 @@
 	color: black;
 }
 
-h2 {
-
-	color: darkgray;
+body {
+   background-image: url("paper.gif");
+   background-color: #FFE4C4;
+}
+.Times{
+	font-family: Times;
+}
+p {
+  font-family: Times;
 }
 
-.background {
-	color:pink;
+.cursive {
+  font-family: cursive;
+}
+
+h2{
+  font-family: cursive;
+}
+.Courier-New{
+	font-family: Courier New;
+}
+h3{
+	font-family: Courier New;
+}
+h1{
+  font-family: cursive;
+}
+.top{
+	color: lightgray;
 }
